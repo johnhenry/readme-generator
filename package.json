@@ -1,7 +1,7 @@
 {
   "name": "readme-generator",
   "version": "0.0.0",
-  "description": "",
+  "description": "generate a readme using an ejs template",
   "main": "index.js",
   "scripts": {
     "compile": "node compile/index.js"
